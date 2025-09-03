@@ -4,20 +4,20 @@ import { CgCPlusPlus } from "react-icons/cg";
 import {
   DiJavascript1,
   DiReact,
-  DiNodejs,
+  // DiNodejs,
   DiMongodb,
-  DiPython,
+  // DiPython,
   DiGit,
   DiJava,
   DiHtml5,
   DiCss3,
-  DiMysql,
+  // DiMysql,
 } from "react-icons/di";
 import {
-  SiRedis,
+  // SiRedis,
   SiFirebase,
-  SiNextdotjs,
-  SiSolidity,
+  // SiNextdotjs,
+  // SiSolidity,
   SiPostgresql,
   SiSpringboot,
   SiTensorflow,
@@ -28,7 +28,7 @@ import {
   SiHibernate,
   SiOracle,
 } from "react-icons/si";
-import { TbBrandGolang } from "react-icons/tb";
+// import { TbBrandGolang } from "react-icons/tb";
 
 function Techstack() {
   return (
