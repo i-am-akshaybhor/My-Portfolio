@@ -311,12 +311,23 @@ button:focus {
 .myAvtar {
   justify-content: center !important;
   padding-top: 9em !important;
+  margin-top: -170px;
+  margin-left: -60px;
 }
 
 @media (max-width: 767px) {
   .myAvtar {
     padding-top: 2em !important;
     padding-bottom: 2em !important;
+    margin-top: 20px;   /* reset margins for mobile */
+    margin-left: 0;
+    display: flex;
+    justify-content: center; /* center the photo */
+  }
+
+  .myAvtar img {
+    max-width: 300px;  /* keep image smaller on mobile */
+    height: auto;
   }
 }
 

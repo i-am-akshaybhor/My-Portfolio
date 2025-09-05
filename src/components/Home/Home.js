@@ -35,7 +35,7 @@ function Home() {
               </div>
             </Col>
 
-             <Col md={4} className="myAvtar" style={{ marginTop: -170 , marginLeft: -60}}>
+             <Col md={4} className="myAvtar" >
                 <Tilt> 
                   <img src={myImg} className="img-fluid" alt="avatar" />
                 </Tilt>
