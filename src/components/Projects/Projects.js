@@ -55,7 +55,7 @@ function Projects() {
               title="Find Your Favorite Movies"
               description="Find Your Favourite Movie is an interactive web application built with React that enables users to search for films, explore popular titles, and curate their own favorites list. Core technologies include React Router for smooth client-side navigation, Context API for managing favorite movies globally, and integration of the TMDb API for real-time movie data. The app features responsive UI design, dynamic searches, and localStorage persistence, ensuring a seamless and engaging experience while users browse and manage their movie preferences."
               ghLink="https://github.com/i-am-akshaybhor/Find-Favorite-Movie"
-              demoLink="https://besthotelbooking.netlify.app"
+              demoLink="https://findfavoritemovie.netlify.app/"
             />
           </Col>
 
